@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Python Libraries used in Multiple Linear Regression Model](#acknowledgements)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
