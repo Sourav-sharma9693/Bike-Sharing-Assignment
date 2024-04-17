@@ -4,8 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
-* [dfghnjmk](#acknowledgements)
-
+* [Python Libraries used in Multiple Linear Regression Model](#acknowledgements)
 * [Acknowledgements](#acknowledgements)
 
 
