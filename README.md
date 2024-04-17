@@ -35,12 +35,12 @@
   `Windspeed`: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.<br>
 
 - Inference of categorical Variables<br>
-	`Fall` season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.
-	September was the best month with maximum bookings, followed by October. Bookings trend increasing starting from January till October and then it started decreasing as last month arrived.
-	In ‘Clear weather’, people opted for more bookings and in ‘Light Rain Thunder’ people travelled less.
-	‘Thursday, Friday, Saturday and Sunday have more number of bookings as compared to ‘Monday and Tuesday’.
-	‘Sunday’ has least bookings, as people may want to spend time with family and for recreational activities.
-	Bookings trend is almost similar on working day or week-off days.
+	`Fall` season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.<br>
+	September was the best month with maximum bookings, followed by October. Bookings trend increasing starting from January till October and then it started decreasing as last month arrived.<br>
+	In ‘Clear weather’, people opted for more bookings and in ‘Light Rain Thunder’ people travelled less.<br>
+	‘Thursday, Friday, Saturday and Sunday have more number of bookings as compared to ‘Monday and Tuesday’.<br>
+	‘Sunday’ has least bookings, as people may want to spend time with family and for recreational activities.<br>
+	Bookings trend is almost similar on working day or week-off days.<br>
 
 
 ## `Python Libraries` used in Multiple Linear Regression Model:
