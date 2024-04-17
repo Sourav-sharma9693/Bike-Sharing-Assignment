@@ -1,44 +1,57 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Bike Sharing Assignment
+> build a multiple linear regression model for the prediction of demand for shared bikes.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Python Libraries used in Multiple Linear Regression Model](#Python Libraries used in Multiple Linear Regression Model)
+
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
+  To model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly 
+  manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+  
 - What is the background of your project?
+  A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free.
+  A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. So, it has decided to come up with a mindful business plan to be able to 
+  accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+
 - What is the business probem that your project is trying to solve?
+  To understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will 
+  be a good way for management to understand the demand dynamics of a new market. 
+
+
 - What is the dataset that is being used?
+  'Bike Sharing dataset'
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+  
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Our final multiple linear regression model aims to predict bike bookings based on a set of predictor variables. After thorough analysis, we have identified the impact of each variable on bike bookings.
+- The top three predictor variables that significantly influence bike bookings are as follows:
+  Year (yr): Focus on understanding and leveraging the increasing trend over the years.
+  Temperature (temp): Consider the positive impact of temperature on bike bookings and plan activities accordingly.
+  Windspeed: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Inference of categorical Variables
+	‘Fall’ season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.
+	September was the best month with maximum bookings, followed by October. Bookings trend increasing starting from January till October and then it started decreasing as last month arrived.
+	In ‘Clear weather’, people opted for more bookings and in ‘Light Rain Thunder’ people travelled less.
+	‘Thursday, Friday, Saturday and Sunday have more number of bookings as compared to ‘Monday and Tuesday’.
+	‘Sunday’ has least bookings, as people may want to spend time with family and for recreational activities.
+	Bookings trend is almost similar on working day or week-off days.
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Python Libraries used in Multiple Linear Regression Model:
+- statsmodels
+- sci-kit learn
+- numpy, pandas
+- matplotlib, seaborn
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
