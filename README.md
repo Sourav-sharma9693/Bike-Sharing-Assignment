@@ -24,18 +24,18 @@
 
 
 - What is the dataset that is being used?
-  'Bike Sharing dataset'
+  `Bike Sharing dataset`
 
   
 ## Conclusions
 - Our final multiple linear regression model aims to predict bike bookings based on a set of predictor variables. After thorough analysis, we have identified the impact of each variable on bike bookings.
-- The top three predictor variables that significantly influence bike bookings are as follows:
-  Year (yr): Focus on understanding and leveraging the increasing trend over the years.
-  Temperature (temp): Consider the positive impact of temperature on bike bookings and plan activities accordingly.
-  Windspeed: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.
+- The top `three` predictor variables that significantly influence bike bookings are as follows:
+  `Year (yr)`: Focus on understanding and leveraging the increasing trend over the years.
+  `Temperature (temp)`: Consider the positive impact of temperature on bike bookings and plan activities accordingly.
+  `Windspeed`: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.
 
 - Inference of categorical Variables
-	‘Fall’ season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.
+	`Fall` season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.
 	September was the best month with maximum bookings, followed by October. Bookings trend increasing starting from January till October and then it started decreasing as last month arrived.
 	In ‘Clear weather’, people opted for more bookings and in ‘Light Rain Thunder’ people travelled less.
 	‘Thursday, Friday, Saturday and Sunday have more number of bookings as compared to ‘Monday and Tuesday’.
@@ -43,7 +43,7 @@
 	Bookings trend is almost similar on working day or week-off days.
 
 
-## Python Libraries used in Multiple Linear Regression Model:
+## `Python Libraries` used in Multiple Linear Regression Model:
 - statsmodels
 - sci-kit learn
 - numpy, pandas
