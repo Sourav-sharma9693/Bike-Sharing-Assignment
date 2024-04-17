@@ -29,12 +29,12 @@
   
 ## Conclusions
 - Our final multiple linear regression model aims to predict bike bookings based on a set of predictor variables. After thorough analysis, we have identified the impact of each variable on bike bookings.
-- The top `three` predictor variables that significantly influence bike bookings are as follows:
-  `Year (yr)`: Focus on understanding and leveraging the increasing trend over the years.
-  `Temperature (temp)`: Consider the positive impact of temperature on bike bookings and plan activities accordingly.
-  `Windspeed`: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.
+- The top `three` predictor variables that significantly influence bike bookings are as follows: <br>
+  `Year (yr)`: Focus on understanding and leveraging the increasing trend over the years.<br>
+  `Temperature (temp)`: Consider the positive impact of temperature on bike bookings and plan activities accordingly.<br>
+  `Windspeed`: Be mindful of the negative impact of windspeed on bike bookings and plan strategies to mitigate its effects.<br>
 
-- Inference of categorical Variables
+- Inference of categorical Variables<br>
 	`Fall` season got more bookings than Summer, Winter, Spring. And ‘Spring’ season had minimum bookings amongst all.
 	September was the best month with maximum bookings, followed by October. Bookings trend increasing starting from January till October and then it started decreasing as last month arrived.
 	In ‘Clear weather’, people opted for more bookings and in ‘Light Rain Thunder’ people travelled less.
